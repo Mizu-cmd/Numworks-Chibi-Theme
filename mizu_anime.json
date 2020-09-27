@@ -18,7 +18,7 @@
         },
         "ExpressionInput": {
             "Background": "e0e0e0",
-            "Border": "#a92aad"
+            "Border": "a92aad"
         },
         "Grid": {
             "PrimaryLine": "d9d9d9",
